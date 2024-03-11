@@ -3,7 +3,7 @@
     public partial class MainPage : ContentPage
     {
         string vez = "O";
-
+        int contador = 0;
 
         public MainPage()
         {
